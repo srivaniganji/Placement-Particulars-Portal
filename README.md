@@ -11,7 +11,6 @@ By achieving these objectives, the Placement Portal will significantly improve t
 
 
 SCOPE OF THE PROJECT 
-The scope of the Placement Portal includes:
 
 >	Company Information:
 Display a list of companies visiting the campus for placements.
@@ -43,10 +42,10 @@ Here is the complete documentation for our project: https://drive.google.com/fil
 
 A big shoutout to our Team members who made invaluable contributions towards making this project:
 
-KETHAVATH SRINIVASULU 
-MUDAVATH UDAY KUMAR NAIK 
-PENTABOINA SINDHUJA 
-KOYYADA AISHWARYA 
+KETHAVATH SRINIVASULU, 
+MUDAVATH UDAY KUMAR NAIK, 
+PENTABOINA SINDHUJA, 
+KOYYADA AISHWARYA, and 
 GANJI SRIVANI 
 
 
