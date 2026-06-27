@@ -38,7 +38,7 @@ Provide a user-friendly interface for easy navigation and information retrieval.
 The Placement Portal aims to streamline the placement preparation process for students at RGUKT Basar, providing them with the necessary resources and support to succeed in their campus placements.
 
 
-Here is the complete documentation for our project: https://drive.google.com/file/d/1RDPdCVu1AtJHdnfPEmShamXnwVAPfKpy/view?usp=drive_link
+<!-- Here is the complete documentation for our project: https://drive.google.com/file/d/1RDPdCVu1AtJHdnfPEmShamXnwVAPfKpy/view?usp=drive_link -->
 
 A big shoutout to our Team members who made invaluable contributions towards making this project:
 
